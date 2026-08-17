@@ -1,83 +1,178 @@
-# AETHER Studio — Architecture Beyond Form
-> **Flagship Showcase crafted with [Verve](https://github.com/mohasbks/verve) — The AI Design Taste Layer**
+<div align="center">
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19.0.0-blue?style=flat-square&logo=react)](https://react.js.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Design Layer](https://img.shields.io/badge/Design%20Taste%20Layer-Verve%20AI-d4955b?style=flat-square)](https://github.com/mohasbks/verve)
+```
+   █████╗ ███████╗████████╗██╗  ██╗███████╗██████╗ 
+  ██╔══██╗██╔════╝╚══██╔══╝██║  ██║██╔════╝██╔══██╗
+  ███████║█████╗     ██║   ███████║█████╗  ██████╔╝
+  ██╔══██║██╔══╝     ██║   ██╔══██║██╔══╝  ██╔══██╗
+  ██║  ██║███████╗   ██║   ██║  ██║███████╗██║  ██║
+  ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
----
+### *Architecture Beyond Form.*
+**A Spatial Atmosphere & Monolithic Architectural Praxis**
 
-## 🏛️ About AETHER
+[![Verve Taste Layer](https://img.shields.io/badge/AI%20Design%20Taste%20Layer-VERVE-d4955b?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mohasbks/verve)
+[![Next.js 15](https://img.shields.io/badge/Next.js-15.1.6-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React 19](https://img.shields.io/badge/React-19.0.0-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](LICENSE)
 
-**AETHER** is a conceptual global architectural praxis operating across Dubai, Riyadh, Abu Dhabi, and London. The website is an immersive, interactive spatial experience embodying monolithic architecture, tactile materials, and the kinetic nature of natural light.
+<br/>
 
----
+> *"A place is remembered by what it makes you feel. We design what space feels like."*
 
-## 🧠 Design Intelligence Layer: Powered by [Verve](https://github.com/mohasbks/verve)
+[Explore Showcase](#-selected-architectural-works) • [Design Taste Layer](#-the-verve-ai-design-taste-layer) • [Interactive Systems](#-interactive-spatial-systems) • [Getting Started](#-getting-started)
 
-This project serves as a live flagship demonstration of **[Verve](https://github.com/mohasbks/verve)** — an **AI Design Taste Layer** that guides generative workflows from generic outputs into world-class, high-conviction aesthetic designs.
-
-### How Verve Influenced This Project:
-- **Aesthetic Direction**: Enforced a high-end monolithic architectural language (*Tadao Ando / John Pawson / Studio KO aesthetic*), replacing generic UI paradigms with editorial layout balance and architectural datum lines.
-- **Harmonious Color & Material Palette**: Curated travertine sand (`#CFC2B0`), dark volcanic basalt (`#232422`), warm gold ochre (`#E5A96C`), and deep obsidian ink (`#0C0C0B`).
-- **Typography Pairing**: Calibrated the interplay between high-contrast editorial serifs (`Instrument Serif`), technical precision monospace (`DM Mono`), and contemporary body geometry (`Plus Jakarta Sans`).
-- **Atmospheric Micro-Interactions**: Guided the integration of the Web Audio API spatial soundscape, diurnal solar azimuth calculation, and real-time shadow projection.
-
-> 💡 *To explore or use the design intelligence layer behind this project, visit the [Verve Repository](https://github.com/mohasbks/verve).*
-
----
-
-## ✨ Features
-
-- **Selected Works Portfolio**: Interactive architectural project cards with instant Blueprint / Axonometric specification overlays, material palettes, and unit toggle ($m^2$ / $\text{sqft}$).
-- **Interactive Aperture & Light Lab**: Real-time diurnal solar simulator calculating sun angle, shadow length, Lux levels, and Kelvin color temperature across 24 hours.
-- **Polyphonic Ambient Soundscape**: Built-in Web Audio API generative sound engine featuring harmonic pad synthesis, subtle desert breeze filters, live animated equalizer bars, master volume slider, and 3 atmospheric presets (*Sanctuary, Desert Solitude, Nocturne*).
-- **Global Studio Ticker**: Real-time clocks tracking local studio times across Dubai (UTC+4), Riyadh (UTC+3), London (UTC+0), and Tokyo (UTC+9).
-- **Interactive Commission Builder**: Streamlined client brief generator with project parameter validation and instant reference ID issuance.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏛️ Executive Overview
 
-- **Framework**: Next.js 15 (App Router)
-- **Library**: React 19
-- **Language**: TypeScript
-- **Styling**: Vanilla CSS (Tailored Design Tokens & Glassmorphism)
-- **Audio Engine**: Web Audio API (Multi-Oscillator Harmonic Synthesis)
-- **Design Intelligence**: [Verve](https://github.com/mohasbks/verve) AI Taste Layer
+**AETHER** is an architectural and spatial design showcase conceived as an antidote to disposable, screen-first digital aesthetics. Operating at the confluence of monolithic architecture, tactile materialism, and kinetic daylight, AETHER delivers an immersive spatial web experience featuring:
+
+- **Diurnal Solar Aperture Simulator**: Real-time celestial sun tracking, shadow projection, Lux calculation, and Kelvin color temperature shifts.
+- **Polyphonic Ambient Soundscape Engine**: In-browser Web Audio API synthesis generating calming, warm harmonic resonance and subtle air currents.
+- **Axonometric Blueprint Inspection**: Interactive project drawer with photography, structural parameters, and technical solar orientation data.
+- **Live Global Praxes Clocks**: Real-time synchronized timepieces for studios in **Dubai (UTC+4), Riyadh (UTC+3), London (UTC+0), and Tokyo (UTC+9)**.
+
+---
+
+## 🧠 The [Verve](https://github.com/mohasbks/verve) AI Design Taste Layer
+
+> **AETHER Studio is the flagship reference implementation of [Verve](https://github.com/mohasbks/verve) — an AI Design Taste Layer created by [@mohasbks](https://github.com/mohasbks).**
+
+### What is Verve?
+Standard generative AI tools produce generic, hyper-saturated, or visually cluttered web interfaces. **Verve** acts as an upstream aesthetic governance layer that injects architectural rigor, spatial balance, and editorial restraint into generative outputs.
+
+```
+┌────────────────────────────────┐       ┌────────────────────────────────┐       ┌────────────────────────────────┐
+│   Raw AI Code Generation       │  ───► │      VERVE TASTE LAYER         │  ───► │    AETHER Luxury Experience    │
+│  (Generic Grids, Plain Layout) │       │ (Spatial Ratios, Palette, Lux) │       │   (Editorial, Monolithic, Zen) │
+└────────────────────────────────┘       └────────────────────────────────┘       └────────────────────────────────┘
+```
+
+### Verve's Aesthetic Principles in AETHER:
+| Principle | Verve Calibration | Visual Outcome |
+| :--- | :--- | :--- |
+| **Material Honesty** | Curated natural stone & mineral tokens | Roman Travertine (`#CFC2B0`), Volcanic Basalt (`#232422`), Obsidian (`#0C0C0B`) |
+| **Typographic Hierarchy** | High-contrast editorial pairing | *Instrument Serif* (Display) + *DM Mono* (Technical Data) + *Plus Jakarta Sans* (Body) |
+| **Atmospheric Lighting** | Diurnal solar ray-marching simulation | 2,400K (Golden Hour) to 6,500K (Nocturnal) dynamic color shifts |
+| **Acoustic Sanctuary** | Generative multi-oscillator synthesizer | Interactive calming brown-noise & chordal pads ($146.8\text{ Hz} - 554.3\text{ Hz}$) |
+
+---
+
+## 🖼️ Selected Architectural Works
+
+<div align="center">
+
+| **01 / House No. 07 (Dubai)** | **02 / The Monolith (Abu Dhabi)** |
+|:---:|:---:|
+| <img src="public/images/house_07.jpg" alt="House No 07 Dubai" width="460" /> | <img src="public/images/monolith.jpg" alt="The Monolith Abu Dhabi" width="460" /> |
+| *Travertine & Cantilevered Concrete Shading* | *Basalt Stone & Titanium Coastal Void* |
+| **Area:** 1,850 m² / 19,910 sqft • **Year:** 2026 | **Area:** 4,200 m² / 45,200 sqft • **Year:** 2025 |
+
+| **03 / Silence Residence (Riyadh)** | **04 / Dune Pavilion (AlUla)** |
+|:---:|:---:|
+| <img src="public/images/silence_residence.jpg" alt="Silence Residence Riyadh" width="460" /> | <img src="public/images/silence_residence.jpg" alt="Dune Pavilion AlUla" width="460" /> |
+| *Chiseled Limestone Courtyard & Water Stepping Stones* | *Stabilized Rammed Earth & Celestial Oculus* |
+| **Area:** 1,280 m² / 13,780 sqft • **Year:** 2025 | **Area:** 2,400 m² / 25,830 sqft • **Year:** 2026 |
+
+</div>
+
+---
+
+## ⚡ Interactive Spatial Systems
+
+### 1. ☀️ Aperture & Light Simulator
+An interactive physical simulation laboratory that lets visitors manipulate the sun's diurnal altitude and azimuth.
+- **Diurnal Time Slider**: 06:00 (Dawn Aperture) through 23:00 (Nocturnal Shadow).
+- **Substrate Selectors**: Roman Travertine, White Cast Concrete, Basalt Stone, and Desert Clay.
+- **Live Telemetry Engine**: Real-time calculated Solar Azimuth degrees, Illuminance in Lux, and Kelvin Color Temperature.
+
+### 2. 🔈 Polyphonic Ambient Sound Engine
+- Built directly on the native **Web Audio API** with zero external audio assets.
+- **Equalizer Animation**: Dynamic animated wave bars reflect active sound status.
+- **Settings Flyout Panel (⚙)**: Master volume slider with 3 tailored architectural sound presets (*Sanctuary Chords*, *Desert Solitude*, *Nocturne Light*).
+
+### 3. 📐 Axonometric Blueprint Drawer
+- Toggle between high-resolution photography and schematic blueprint overlays with isometric gridlines, solar orientation data, and material specifications.
+- Instant dual-unit conversion: Metric ($m^2$) and Imperial ($\text{sq ft}$).
+
+### 4. 📋 Project Commissioning Engine
+- Bespoke 3-step interactive inquiry builder with automated reference code issuance (e.g., `AE-2026-8941`) and instant feedback.
+
+---
+
+## 🛠️ Architecture & Tech Stack
+
+```
+aether-studio/
+├── app/
+│   ├── layout.tsx         # Root layout, Google Fonts preconnect, OpenGraph metadata
+│   ├── page.tsx           # Monolithic interactive experience & Web Audio synthesis
+│   ├── globals.css        # Bespoke design token system, glassmorphism & responsive rules
+│   └── icon.svg           # Minimalist architectural monogram favicon
+├── public/
+│   └── images/            # High-resolution architectural photography
+├── package.json           # Next.js 15, React 19, TypeScript dependencies
+└── tsconfig.json          # Strict TypeScript configuration
+```
+
+- **Core Framework**: [Next.js 15.1.6](https://nextjs.org/) (App Router, Server-Side Optimization)
+- **UI & State**: [React 19.0.0](https://react.dev/) (`useState`, `useRef`, `useCallback`, `useEffect`)
+- **Type Safety**: [TypeScript 5.7.2](https://www.typescriptlang.org/)
+- **Design Tokens**: Vanilla CSS Custom Properties (`--ink`, `--ivory`, `--warm-gold`, `--sand-travertine`)
+- **Audio Processing**: Web Audio API (Multi-Oscillator Nodes, Biquad Filter Banks, Pink Noise Generation)
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/mohasbks/aether-studio.git
-cd aether-studio
-```
+### Prerequisites
+- Node.js 18.18.0 or higher
+- npm, yarn, or pnpm
 
-### 2. Install Dependencies
-```bash
-npm install
-```
+### Installation
 
-### 3. Run Development Server
-```bash
-npm run dev
-```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/mohasbks/aether-studio.git
+   cd aether-studio
+   ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-### 4. Build for Production
-```bash
-npm run build
-npm run start
-```
+3. **Start development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Access the application:**
+   Open [http://localhost:3000](http://localhost:3000) in your modern web browser.
+
+5. **Build for production:**
+   ```bash
+   npm run build
+   npm run start
+   ```
 
 ---
 
-## 📄 License & Credits
+## 📍 Global Studio Praxes
 
-- Designed & Built using **[Verve](https://github.com/mohasbks/verve)** (AI Design Taste Layer).
-- Open-source under the [MIT License](LICENSE).
+- **Dubai**: DIFC Gate Precinct 4, Level 08 (`+971 4 819 2200`)
+- **Riyadh**: Al-Bujairi Heritage Quarter (`+966 11 405 8820`)
+- **London**: 28 Berkeley Square, Mayfair (`+44 20 7946 0912`)
+- **Tokyo**: Minato-ku, Roppongi Atelier (`+81 3 5555 0142`)
+
+---
+
+## 📄 License & Attribution
+
+- **Creator & Design Layer**: Developed by [@mohasbks](https://github.com/mohasbks) using the **[Verve](https://github.com/mohasbks/verve)** AI Design Taste Layer.
+- **License**: Released under the [MIT License](LICENSE).
