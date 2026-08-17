@@ -1,10 +1,10 @@
 # AETHER Studio — Architecture Beyond Form
-> **Flagship Showcase crafted with [Verve](https://github.com/USERNAME/verve) — The AI Design Taste Layer**
+> **Flagship Showcase crafted with [Verve](https://github.com/mohasbks/verve) — The AI Design Taste Layer**
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.0.0-blue?style=flat-square&logo=react)](https://react.js.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Design Layer](https://img.shields.io/badge/Design%20Taste%20Layer-Verve%20AI-d4955b?style=flat-square)](https://github.com/USERNAME/verve)
+[![Design Layer](https://img.shields.io/badge/Design%20Taste%20Layer-Verve%20AI-d4955b?style=flat-square)](https://github.com/mohasbks/verve)
 
 ---
 
@@ -14,9 +14,9 @@
 
 ---
 
-## 🧠 Design Intelligence Layer: Powered by [Verve](https://github.com/USERNAME/verve)
+## 🧠 Design Intelligence Layer: Powered by [Verve](https://github.com/mohasbks/verve)
 
-This project serves as a live flagship demonstration of **[Verve](https://github.com/USERNAME/verve)** — an **AI Design Taste Layer** that guides generative workflows from generic outputs into world-class, high-conviction aesthetic designs.
+This project serves as a live flagship demonstration of **[Verve](https://github.com/mohasbks/verve)** — an **AI Design Taste Layer** that guides generative workflows from generic outputs into world-class, high-conviction aesthetic designs.
 
 ### How Verve Influenced This Project:
 - **Aesthetic Direction**: Enforced a high-end monolithic architectural language (*Tadao Ando / John Pawson / Studio KO aesthetic*), replacing generic UI paradigms with editorial layout balance and architectural datum lines.
@@ -24,7 +24,7 @@ This project serves as a live flagship demonstration of **[Verve](https://github
 - **Typography Pairing**: Calibrated the interplay between high-contrast editorial serifs (`Instrument Serif`), technical precision monospace (`DM Mono`), and contemporary body geometry (`Plus Jakarta Sans`).
 - **Atmospheric Micro-Interactions**: Guided the integration of the Web Audio API spatial soundscape, diurnal solar azimuth calculation, and real-time shadow projection.
 
-> 💡 *To explore or use the design intelligence layer behind this project, visit the [Verve Repository](https://github.com/USERNAME/verve).*
+> 💡 *To explore or use the design intelligence layer behind this project, visit the [Verve Repository](https://github.com/mohasbks/verve).*
 
 ---
 
@@ -45,7 +45,7 @@ This project serves as a live flagship demonstration of **[Verve](https://github
 - **Language**: TypeScript
 - **Styling**: Vanilla CSS (Tailored Design Tokens & Glassmorphism)
 - **Audio Engine**: Web Audio API (Multi-Oscillator Harmonic Synthesis)
-- **Design Intelligence**: [Verve](https://github.com/USERNAME/verve) AI Taste Layer
+- **Design Intelligence**: [Verve](https://github.com/mohasbks/verve) AI Taste Layer
 
 ---
 
@@ -53,7 +53,7 @@ This project serves as a live flagship demonstration of **[Verve](https://github
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/USERNAME/aether-studio.git
+git clone https://github.com/mohasbks/aether-studio.git
 cd aether-studio
 ```
 
@@ -79,5 +79,5 @@ npm run start
 
 ## 📄 License & Credits
 
-- Designed & Built using **[Verve](https://github.com/USERNAME/verve)** (AI Design Taste Layer).
+- Designed & Built using **[Verve](https://github.com/mohasbks/verve)** (AI Design Taste Layer).
 - Open-source under the [MIT License](LICENSE).
