@@ -12,54 +12,73 @@
 ### *Architecture Beyond Form.*
 **A Spatial Atmosphere & Monolithic Architectural Praxis**
 
-[![Verve Taste Layer](https://img.shields.io/badge/AI%20Design%20Taste%20Layer-VERVE-d4955b?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mohasbks/verve)
-[![Next.js 15](https://img.shields.io/badge/Next.js-15.1.6-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Verve Intelligence Layer](https://img.shields.io/badge/Design%20Intelligence%20Layer-VERVE-d4955b?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mohasbks/Verve)
+[![Norman Score](https://img.shields.io/badge/Verve%20Score-Grade%20S%20%7C%2096%2F100-4ade80?style=for-the-badge)](https://github.com/mohasbks/Verve)
+[![Next.js 16](https://img.shields.io/badge/Next.js-16.3.1-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React 19](https://img.shields.io/badge/React-19.0.0-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](LICENSE)
 
 <br/>
 
-> *"A place is remembered by what it makes you feel. We design what space feels like."*
+> *"Every AI website looks the same. AETHER won't."*  
+> **AETHER Studio is the official Grade S Flagship Showcase built with [Verve](https://github.com/mohasbks/Verve) — The Open-Source AI Design Taste Layer by [@mohasbks](https://github.com/mohasbks).**
 
-[Explore Showcase](#-selected-architectural-works) • [Design Taste Layer](#-the-verve-ai-design-taste-layer) • [Interactive Systems](#-interactive-spatial-systems) • [Getting Started](#-getting-started)
+[Explore Live Showcase](#-selected-architectural-works) • [How Verve Built This](#-powered-by-verve-design-intelligence) • [Interactive Systems](#-interactive-spatial-systems) • [Getting Started](#-getting-started)
 
 </div>
 
 ---
 
-## 🏛️ Executive Overview
+## 🏛️ Executive Summary
 
-**AETHER** is an architectural and spatial design showcase conceived as an antidote to disposable, screen-first digital aesthetics. Operating at the confluence of monolithic architecture, tactile materialism, and kinetic daylight, AETHER delivers an immersive spatial web experience featuring:
+Standard AI models default to predictable visual cliches: *Inter 700 bold typography, blue-to-purple hero gradients, 4-card feature grids, and soft-shadow cards.*
 
-- **Diurnal Solar Aperture Simulator**: Real-time celestial sun tracking, shadow projection, Lux calculation, and Kelvin color temperature shifts.
-- **Polyphonic Ambient Soundscape Engine**: In-browser Web Audio API synthesis generating calming, warm harmonic resonance and subtle air currents.
-- **Axonometric Blueprint Inspection**: Interactive project drawer with photography, structural parameters, and technical solar orientation data.
-- **Live Global Praxes Clocks**: Real-time synchronized timepieces for studios in **Dubai (UTC+4), Riyadh (UTC+3), London (UTC+0), and Tokyo (UTC+9)**.
+**AETHER Studio** is an architectural and spatial design web application engineered to prove what happens when an LLM is governed by **[Verve](https://github.com/mohasbks/Verve)**. Instead of producing the statistical median AI aesthetic, Verve enforced an uncompromising architectural language rooted in monolithic weight, geological materials, and kinetic daylight.
 
 ---
 
-## 🧠 The [Verve](https://github.com/mohasbks/verve) AI Design Taste Layer
+## 🧠 Powered by [Verve](https://github.com/mohasbks/Verve) Design Intelligence
 
-> **AETHER Studio is the flagship reference implementation of [Verve](https://github.com/mohasbks/verve) — an AI Design Taste Layer created by [@mohasbks](https://github.com/mohasbks).**
-
-### What is Verve?
-Standard generative AI tools produce generic, hyper-saturated, or visually cluttered web interfaces. **Verve** acts as an upstream aesthetic governance layer that injects architectural rigor, spatial balance, and editorial restraint into generative outputs.
+> **[Verve](https://github.com/mohasbks/Verve)** is an open-source design intelligence pipeline that sits between any LLM and its code output — forcing bold, non-generic, context-specific UI through **9 specialized modules**.
 
 ```
-┌────────────────────────────────┐       ┌────────────────────────────────┐       ┌────────────────────────────────┐
-│   Raw AI Code Generation       │  ───► │      VERVE TASTE LAYER         │  ───► │    AETHER Luxury Experience    │
-│  (Generic Grids, Plain Layout) │       │ (Spatial Ratios, Palette, Lux) │       │   (Editorial, Monolithic, Zen) │
-└────────────────────────────────┘       └────────────────────────────────┘       └────────────────────────────────┘
+┌──────────────────────────────────────┐
+│       User / Architectural Brief     │
+└──────────────────┬───────────────────┘
+                   ▼
+┌──────────────────────────────────────┐
+│  [01] Brief Analyzer (JTBD + Tone)   │
+│  [02] Cliché Blocklist (300+ Tells)  │
+│  [I]  Brand Archetype (The Ruler)    │ ──► Enforces Monolithic Restraint, Prohibits Generic Trends
+│  [K]  Animation Language Tokens      │
+│  [G]  Cognitive Plan (Von Restorff)  │ ──► Isolates the Solar Aperture Simulator as Signature Element
+│  [04] Adversarial Critique Loop      │ ──► Rejects filler endings via Peak-End Rule
+│  [05] Code Generator & Quality Pass  │
+└──────────────────┬───────────────────┘
+                   ▼
+┌──────────────────────────────────────┐
+│     [J] NORMAN 3-LEVEL EVALUATION    │
+│  • Visceral:   35/35 (Bold / Mood)   │ ──► COMPOSITE SCORE: 96/100 (GRADE S)
+│  • Behavioral: 38/40 (Blind Usability│
+│  • Reflective: 23/25 (Archetype Fit) │
+└──────────────────┬───────────────────┘
+                   ▼
+┌──────────────────────────────────────┐
+│        AETHER STUDIO SHOWCASE        │
+└──────────────────────────────────────┘
 ```
 
-### Verve's Aesthetic Principles in AETHER:
-| Principle | Verve Calibration | Visual Outcome |
+### How Verve's 9 Modules Shaped AETHER:
+
+| Verve Module | Mechanical Intervention in AETHER | Aesthetic & Functional Outcome |
 | :--- | :--- | :--- |
-| **Material Honesty** | Curated natural stone & mineral tokens | Roman Travertine (`#CFC2B0`), Volcanic Basalt (`#232422`), Obsidian (`#0C0C0B`) |
-| **Typographic Hierarchy** | High-contrast editorial pairing | *Instrument Serif* (Display) + *DM Mono* (Technical Data) + *Plus Jakarta Sans* (Body) |
-| **Atmospheric Lighting** | Diurnal solar ray-marching simulation | 2,400K (Golden Hour) to 6,500K (Nocturnal) dynamic color shifts |
-| **Acoustic Sanctuary** | Generative multi-oscillator synthesizer | Interactive calming brown-noise & chordal pads ($146.8\text{ Hz} - 554.3\text{ Hz}$) |
+| **[02] Anti-Cliché Blocklist** | Blocked generic SaaS cards, gradient buttons, and Inter/Roboto typefaces. | High-contrast editorial pairing: `Instrument Serif` + `DM Mono` + `Plus Jakarta Sans`. |
+| **[Module I] Brand Archetype** | Resolved archetype: **The Ruler / The Sage** (*Architectural Permanence*). | Strict palette constraints: Roman Travertine (`#CFC2B0`), Volcanic Basalt (`#232422`), and Obsidian (`#0C0C0B`). |
+| **[Module G] Cognitive Layout** | Enforced **Von Restorff Isolation Effect** & **Gutenberg Optical Flow**. | Layout abandons 4-card grids in favor of narrative horizontal planes and technical datum markers. |
+| **[Module G] Signature Element** | Enforced a single, memorable, non-empty interactive centerpiece. | **Interactive Aperture & Solar Ray Simulator** calculating real-time diurnal angles and Lux. |
+| **[Module 04] Peak-End Rule** | Rejected standard footer filler links during the adversarial critique pass. | Ending transformed into an interactive **Commission Brief Builder** with live ID dispatch. |
+| **[Module J] Norman 3-Level** | Dual-track blind evaluation of visceral boldness vs. behavioral utility. | Added polyphonic Web Audio harmonic resonance and instant Metric/Imperial area switching. |
 
 ---
 
@@ -85,23 +104,26 @@ Standard generative AI tools produce generic, hyper-saturated, or visually clutt
 
 ## ⚡ Interactive Spatial Systems
 
-### 1. ☀️ Aperture & Light Simulator
-An interactive physical simulation laboratory that lets visitors manipulate the sun's diurnal altitude and azimuth.
+### 1. ☀️ Aperture & Light Simulator (Verve Signature Element)
+An interactive physical simulation laboratory that allows visitors to manipulate celestial solar altitude and azimuth.
 - **Diurnal Time Slider**: 06:00 (Dawn Aperture) through 23:00 (Nocturnal Shadow).
 - **Substrate Selectors**: Roman Travertine, White Cast Concrete, Basalt Stone, and Desert Clay.
-- **Live Telemetry Engine**: Real-time calculated Solar Azimuth degrees, Illuminance in Lux, and Kelvin Color Temperature.
+- **Live Telemetry Engine**: Real-time calculated Solar Azimuth degrees, Illuminance in Lux, and Kelvin Color Temperature (2,400K - 6,500K).
 
 ### 2. 🔈 Polyphonic Ambient Sound Engine
-- Built directly on the native **Web Audio API** with zero external audio assets.
+- Built directly on the native **Web Audio API** with zero external media files.
 - **Equalizer Animation**: Dynamic animated wave bars reflect active sound status.
-- **Settings Flyout Panel (⚙)**: Master volume slider with 3 tailored architectural sound presets (*Sanctuary Chords*, *Desert Solitude*, *Nocturne Light*).
+- **Settings Flyout Panel (⚙)**: Master volume slider (0% to 100%) with 3 tailored architectural sound presets (*Sanctuary Chords*, *Desert Solitude*, *Nocturne Light*).
 
 ### 3. 📐 Axonometric Blueprint Drawer
 - Toggle between high-resolution photography and schematic blueprint overlays with isometric gridlines, solar orientation data, and material specifications.
 - Instant dual-unit conversion: Metric ($m^2$) and Imperial ($\text{sq ft}$).
 
-### 4. 📋 Project Commissioning Engine
-- Bespoke 3-step interactive inquiry builder with automated reference code issuance (e.g., `AE-2026-8941`) and instant feedback.
+### 4. 🌍 Synchronized Global Studio Clocks
+- Live ticking clocks tracking local working hours for AETHER studios across **Dubai (UTC+4), Riyadh (UTC+3), London (UTC+0), and Tokyo (UTC+9)**.
+
+### 5. 📋 Project Commissioning Engine
+- Bespoke 3-step interactive brief generator with automated reference code issuance (e.g., `AE-2026-8941`) and direct client feedback.
 
 ---
 
@@ -116,14 +138,15 @@ aether-studio/
 │   └── icon.svg           # Minimalist architectural monogram favicon
 ├── public/
 │   └── images/            # High-resolution architectural photography
-├── package.json           # Next.js 15, React 19, TypeScript dependencies
+├── package.json           # Next.js 16, React 19, TypeScript dependencies
 └── tsconfig.json          # Strict TypeScript configuration
 ```
 
-- **Core Framework**: [Next.js 15.1.6](https://nextjs.org/) (App Router, Server-Side Optimization)
+- **Framework**: [Next.js 16.3.1](https://nextjs.org/) (App Router, Turbopack, Fast Server-Side Rendering)
 - **UI & State**: [React 19.0.0](https://react.dev/) (`useState`, `useRef`, `useCallback`, `useEffect`)
 - **Type Safety**: [TypeScript 5.7.2](https://www.typescriptlang.org/)
-- **Design Tokens**: Vanilla CSS Custom Properties (`--ink`, `--ivory`, `--warm-gold`, `--sand-travertine`)
+- **Design Intelligence**: Powered by **[Verve](https://github.com/mohasbks/Verve)**
+- **Styling**: Vanilla CSS Design Tokens (Zero TailwindCSS bloat, maximum architectural control)
 - **Audio Processing**: Web Audio API (Multi-Oscillator Nodes, Biquad Filter Banks, Pink Noise Generation)
 
 ---
@@ -172,7 +195,8 @@ aether-studio/
 
 ---
 
-## 📄 License & Attribution
+## 📄 License & Ecosystem Links
 
-- **Creator & Design Layer**: Developed by [@mohasbks](https://github.com/mohasbks) using the **[Verve](https://github.com/mohasbks/verve)** AI Design Taste Layer.
-- **License**: Released under the [MIT License](LICENSE).
+- **Design Intelligence**: [Verve — AI Design Taste Layer](https://github.com/mohasbks/Verve) by [@mohasbks](https://github.com/mohasbks).
+- **Try Verve Live**: [verve-dev.vercel.app](https://verve-dev.vercel.app/)
+- **License**: Open-source under the [MIT License](LICENSE).
