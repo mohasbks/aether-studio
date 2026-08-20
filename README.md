@@ -12,8 +12,8 @@
 ### *Architecture Beyond Form.*
 **A Spatial Atmosphere & Monolithic Architectural Praxis**
 
-[![Verve Intelligence Layer](https://img.shields.io/badge/Design%20Intelligence%20Layer-VERVE-d4955b?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mohasbks/Verve)
-[![Norman Score](https://img.shields.io/badge/Verve%20Score-Grade%20S%20%7C%2096%2F100-4ade80?style=for-the-badge)](https://github.com/mohasbks/Verve)
+[![Verve Intelligence Layer](https://img.shields.io/badge/Design%20Intelligence%20Layer-VERVE-d4955b?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Almotasembellahawwad/Verve)
+[![Norman Score](https://img.shields.io/badge/Verve%20Score-Grade%20S%20%7C%2096%2F100-4ade80?style=for-the-badge)](https://github.com/Almotasembellahawwad/Verve)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.3.1-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React 19](https://img.shields.io/badge/React-19.0.0-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -22,7 +22,7 @@
 <br/>
 
 > *"Every AI website looks the same. AETHER won't."*  
-> **AETHER Studio is the official Grade S Flagship Showcase built with [Verve](https://github.com/mohasbks/Verve) — The Open-Source AI Design Taste Layer by [@mohasbks](https://github.com/mohasbks).**
+> **AETHER Studio is the official Grade S Flagship Showcase built with [Verve](https://github.com/Almotasembellahawwad/Verve) — The Open-Source AI Design Taste Layer by [@Almotasembellahawwad](https://github.com/Almotasembellahawwad).**
 
 [Explore Live Showcase](#-selected-architectural-works) • [How Verve Built This](#-powered-by-verve-design-intelligence) • [Interactive Systems](#-interactive-spatial-systems) • [Getting Started](#-getting-started)
 
@@ -34,13 +34,13 @@
 
 Standard AI models default to predictable visual cliches: *Inter 700 bold typography, blue-to-purple hero gradients, 4-card feature grids, and soft-shadow cards.*
 
-**AETHER Studio** is an architectural and spatial design web application engineered to prove what happens when an LLM is governed by **[Verve](https://github.com/mohasbks/Verve)**. Instead of producing the statistical median AI aesthetic, Verve enforced an uncompromising architectural language rooted in monolithic weight, geological materials, and kinetic daylight.
+**AETHER Studio** is an architectural and spatial design web application engineered to prove what happens when an LLM is governed by **[Verve](https://github.com/Almotasembellahawwad/Verve)**. Instead of producing the statistical median AI aesthetic, Verve enforced an uncompromising architectural language rooted in monolithic weight, geological materials, and kinetic daylight.
 
 ---
 
-## 🧠 Powered by [Verve](https://github.com/mohasbks/Verve) Design Intelligence
+## 🧠 Powered by [Verve](https://github.com/Almotasembellahawwad/Verve) Design Intelligence
 
-> **[Verve](https://github.com/mohasbks/Verve)** is an open-source design intelligence pipeline that sits between any LLM and its code output — forcing bold, non-generic, context-specific UI through **9 specialized modules**.
+> **[Verve](https://github.com/Almotasembellahawwad/Verve)** is an open-source design intelligence pipeline that sits between any LLM and its code output — forcing bold, non-generic, context-specific UI through **9 specialized modules**.
 
 ```
 ┌──────────────────────────────────────┐
@@ -145,7 +145,7 @@ aether-studio/
 - **Framework**: [Next.js 16.3.1](https://nextjs.org/) (App Router, Turbopack, Fast Server-Side Rendering)
 - **UI & State**: [React 19.0.0](https://react.dev/) (`useState`, `useRef`, `useCallback`, `useEffect`)
 - **Type Safety**: [TypeScript 5.7.2](https://www.typescriptlang.org/)
-- **Design Intelligence**: Powered by **[Verve](https://github.com/mohasbks/Verve)**
+- **Design Intelligence**: Powered by **[Verve](https://github.com/Almotasembellahawwad/Verve)**
 - **Styling**: Vanilla CSS Design Tokens (Zero TailwindCSS bloat, maximum architectural control)
 - **Audio Processing**: Web Audio API (Multi-Oscillator Nodes, Biquad Filter Banks, Pink Noise Generation)
 
@@ -161,7 +161,7 @@ aether-studio/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mohasbks/aether-studio.git
+   git clone https://github.com/Almotasembellahawwad/aether-studio.git
    cd aether-studio
    ```
 
@@ -197,6 +197,6 @@ aether-studio/
 
 ## 📄 License & Ecosystem Links
 
-- **Design Intelligence**: [Verve — AI Design Taste Layer](https://github.com/mohasbks/Verve) by [@mohasbks](https://github.com/mohasbks).
+- **Design Intelligence**: [Verve — AI Design Taste Layer](https://github.com/Almotasembellahawwad/Verve) by [@Almotasembellahawwad](https://github.com/Almotasembellahawwad).
 - **Try Verve Live**: [verve-dev.vercel.app](https://verve-dev.vercel.app/)
 - **License**: Open-source under the [MIT License](LICENSE).
